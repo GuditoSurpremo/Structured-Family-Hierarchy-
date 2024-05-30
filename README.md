@@ -4,10 +4,19 @@ Project Description:
 
 
 
+
+
+
+
+
+
  
 Importance and Contribution:
 
 The code is used as an educational resource for users, particularly students studying object-oriented programming concepts. By studying and interacting with the code, users can obtain a hands-on understanding of how inheritance, polymorphism, encapsulation, and abstraction function in reality. It also provides a basis for documenting family relationships and tracing ancestral lines, allowing users to build family trees and track historical data, making family history and heritage analyze easier.
+
+
+
 
 
 
