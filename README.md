@@ -1,4 +1,4 @@
-Project Description:
+Project Description
 
  This program is a structured family hierarchy that aims to represent a family tree 
 
