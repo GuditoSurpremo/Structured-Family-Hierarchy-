@@ -13,6 +13,9 @@ The code is used as an educational resource for users, particularly students stu
 
 References:
 Inheritance Guide: https://www.w3schools.com/python/python_inheritance.asp
+
 Polymorphism Guide: https://www.youtube.com/watch?v=C2QfkDcQ5MU
+
 Encapsulation Guide: https://www.tutorialspoint.com/python/python_encapsulation.htm
+
 Abstraction Guide: https://www.geeksforgeeks.org/abstract-classes-in-python/
